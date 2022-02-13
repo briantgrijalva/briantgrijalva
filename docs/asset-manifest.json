@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d39c4853.css",
+    "main.js": "/static/js/main.375909a8.js",
+    "static/js/787.ae0d8d37.chunk.js": "/static/js/787.ae0d8d37.chunk.js",
+    "static/media/pcAboutOption2.jpg": "/static/media/pcAboutOption2.9d816c130fab518ee310.jpg",
+    "static/media/me.png": "/static/media/me.2fb6a11861a7f364ff8c.png",
+    "static/media/contactImg.jpg": "/static/media/contactImg.5b9071c11229175be49f.jpg",
+    "static/media/imgPixabay.png": "/static/media/imgPixabay.1deb31bb63f731d5838c.png",
+    "static/media/imgPapershipx.png": "/static/media/imgPapershipx.45f53f941d18e22c6d8c.png",
+    "static/media/react.png": "/static/media/react.92864e1165634bf7a139.png",
+    "static/media/node-js.png": "/static/media/node-js.e328955d6bbbf3ebc72b.png",
+    "static/media/presupuesto.png": "/static/media/presupuesto.6811d2d49146720051a6.png",
+    "static/media/logo.svg": "/static/media/logo.5dc7e435b3469dc802730af4a4f02b9f.svg",
+    "static/media/uiux.png": "/static/media/uiux.a621c081481245d46214.png",
+    "static/media/git.png": "/static/media/git.848d8eb4034119060c76.png",
+    "static/media/css-3.png": "/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/imgPomodoro.png": "/static/media/imgPomodoro.345cec2f7aa25d5149d5.png",
+    "static/media/html5.png": "/static/media/html5.7466c48e4941b3c0a86a.png",
+    "static/media/mernTaskImg.png": "/static/media/mernTaskImg.8c3eddc3147daaee7517.png",
+    "static/media/js.png": "/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/mongo.png": "/static/media/mongo.06ba5465b1031ca85f3d.png",
+    "static/media/imgCalendar.png": "/static/media/imgCalendar.a2a23e450d533d749cbf.png",
+    "index.html": "/index.html",
+    "main.d39c4853.css.map": "/static/css/main.d39c4853.css.map",
+    "main.375909a8.js.map": "/static/js/main.375909a8.js.map",
+    "787.ae0d8d37.chunk.js.map": "/static/js/787.ae0d8d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d39c4853.css",
+    "static/js/main.375909a8.js"
+  ]
+}
