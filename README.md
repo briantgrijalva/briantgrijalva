@@ -12,7 +12,7 @@
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)](https://www.mongodb.com/)
 [![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux)](https://redux.js.org/)
 [![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)](https://unity.com/)
 [![NPM](https://img.shields.io/badge/-NPM-white?style=flat&logo=npm)](https://www.npmjs.com/)
