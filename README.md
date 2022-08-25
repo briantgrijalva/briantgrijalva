@@ -1,5 +1,5 @@
 ### Hi my name is Briant 👋
-[📧](briantgrijalva20@gmail.com)
+[📧]briantgrijalva20@gmail.com
 
 > a frontEnd engineer(Full Stack)
 
