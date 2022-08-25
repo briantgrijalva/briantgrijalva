@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Briant 👋
 [📧](briantgrijalva20@gmail.com)
 
 > a frontEnd engineer(Full Stack)
@@ -8,18 +8,17 @@
 
 #### 👨🏻‍💻 Currently working on:
 
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-<a src="https://redux.js.org/"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
-<a src="https://unity.com/"><img src="https://img.icons8.com/color/48/000000/unity"/></a>
-<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://www.typescriptlang.org/)
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://nodejs.org)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://www.mongodb.com/)
+[![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux)](https://redux.js.org/)
+[![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity)](https://unity.com/)
+[![NPM](https://img.shields.io/badge/-NPM-white?style=flat&logo=npm)](https://www.npmjs.com/)
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github)](https://github.com/)
+[![HTML](https://img.shields.io/badge/-HTML-white?style=flat&logo=html5)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)](https://www.w3schools.com/css/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://getbootstrap.com/) 
 
 
