@@ -3,10 +3,15 @@
 
 > a frontEnd engineer(Full Stack)
 
+#### 👨🏻‍💻 Where contact me:
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/briantgrijalva/)
+[![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/briantgrijalva/)
+
+<!-- #### 👨🏻‍💻 Currently working on: -->
 
 <!-- #### 💼 Currently working as: Developer at [The Orange Box Agency](https://tobagency.com/) -->
 
-#### 👨🏻‍💻 Currently working on:
+#### 👨🏻‍💻 Tech and tools:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/) 
