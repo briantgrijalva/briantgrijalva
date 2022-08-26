@@ -2,7 +2,7 @@
 
 > a frontEnd engineer(Full Stack)
 
-#### 👨🏻‍💻 Where contact me:
+#### ☎ Where contact me:
 
 📧briantgrijalva20@gmail.com
 
@@ -13,7 +13,7 @@
 
 <!-- #### 💼 Currently working as: Developer at [The Orange Box Agency](https://tobagency.com/) -->
 
-#### 👨🏻‍💻 Tech and tools:
+#### 💻 Tech and tools:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/) 
