@@ -1,9 +1,11 @@
 ### Hi my name is Briant 👋
-📧briantgrijalva20@gmail.com
 
 > a frontEnd engineer(Full Stack)
 
 #### 👨🏻‍💻 Where contact me:
+
+📧briantgrijalva20@gmail.com
+
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/briantgrijalva/)
 [![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/briantgrijalva/)
 
