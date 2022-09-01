@@ -9,9 +9,9 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/briantgrijalva/)
 [![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/briantgrijalva/)
 
-<!-- #### 👨🏻‍💻 Currently working on: -->
+#### 👨🏻‍💻 Currently working on:
 
-<!-- #### 💼 Currently working as: Developer at [The Orange Box Agency](https://tobagency.com/) -->
+#### 💼 Currently working as: Developer at [The Orange Box Agency](https://tobagency.com/)
 
 #### 💻 Tech and tools:
 
