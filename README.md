@@ -1,6 +1,6 @@
 ### Hi my name is Briant 👋
 
-> a frontEnd engineer(Full Stack)
+> a software engineer(Full Stack)
 
 #### ☎ Where contact me:
 
