@@ -10,11 +10,13 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/briantgrijalva/)
 
 #### 💼 Currently working as: Developer at [The Orange Box Agency](https://tobagency.com/)
+#### 💼 Also working on my side project: [Pomo-mode](https://github.com/briantgrijalva/Pomo-mode)
 
 #### 💻 Tech and tools:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/) 
+[![React Native](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactnative.dev/) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)](https://www.mongodb.com/)
@@ -31,18 +33,3 @@
 
 - 🌎 [portfolio](https://briantgrijalva.com/)
 
-
-<!--
-**briantgrijalva/briantgrijalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
