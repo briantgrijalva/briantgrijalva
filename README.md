@@ -16,7 +16,7 @@
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.javascript.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactjs.org/) 
-[![React Native](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://reactnative.dev/) 
+[![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)](https://reactnative.dev/) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)](https://nodejs.org)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat&logo=mongodb)](https://www.mongodb.com/)
