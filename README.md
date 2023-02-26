@@ -10,7 +10,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-white?style=flat&logo=instagram)](https://www.instagram.com/briantgrijalva/)
 
 #### 💼 Currently working as: Developer at [The Orange Box Agency](https://tobagency.com/)
-#### 💼 Also working on my side project: [Pomo-mode](https://github.com/briantgrijalva/Pomo-mode)
+<!-- #### 💼 Also working on my side project: [Pomo-mode](https://briantgrijalva.com/pomo-mode) -->
 
 #### 💻 Tech and tools:
 
