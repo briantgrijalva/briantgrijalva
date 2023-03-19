@@ -26,7 +26,8 @@
 [![Github](https://img.shields.io/badge/-Github-black?style=flat&logo=github)](https://github.com/)
 [![HTML](https://img.shields.io/badge/-HTML-white?style=flat&logo=html5)](https://www.w3schools.com/html/)
 [![CSS](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3)](https://www.w3schools.com/css/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://getbootstrap.com/) 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)](https://getbootstrap.com/)
+[![Bulma](https://img.shields.io/badge/-Bulma-FFFFFF?style=flat&logo=bulma)](https://bulma.io/)
 
 
 #### Personal Web:
